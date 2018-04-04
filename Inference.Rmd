@@ -1,4 +1,4 @@
-#Coursera : Inferential Analysis Peer assignment 
+#Coursera : General Social Survey Analysis 
 
 
 
@@ -21,8 +21,8 @@ library(dplyr)
 library(statsr)
 ```
 #Part 1 About the Data 
-According to the given information Gss, the General Social Survey work is to moniter the social activities and to study the growing complexity of American Society. GSS has been working for this since 1972.
-The basic purpose of this project work is to make us understand the GSS functionality and it's services. And to be able to understand the statistical Problems. The main topics for research are the emerging issues given in the information provided by coursera, it includes national spending priorities, marijuana use, crime and punishment, race relations, quality of life, confidence in institutions, and sexual behavior.
+The work of  Gss, the General Social Survey,  is to moniter the social activities and to study the growing complexity of American Society. GSS has been working for this since 1972.
+The basic purpose of this project work is to make us understand the GSS functionality and its services. And to be able to understand the statistical Problems. The main topics for research are the emerging issues given in the information provided by coursera, it includes national spending priorities, marijuana use, crime and punishment, race relations, quality of life, confidence in institutions, and sexual behavior.
 THe GSS conducted a face to face survey to the people of America then asked them and collect the information of their experiences, behaviours etc.
 THe scope of inference is to research about this data . Their collected data is randomly sampled. In this data the variables are related and the survey is randomly sampled as it is not neccessory that every resident of country will join this survey and ready to answer the questions.They, basically choose the adult people for survey
 
